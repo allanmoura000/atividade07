@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+.titulo{
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2em;
+    text-shadow: 2px 2px 5px black;
+
+}
+body{
+    background-color: #fcede4;
+}
+header{
+    background-color:#cfbff7 ;
+    margin:-10px -10px 40px -10px ;
+    padding: 10px;
+    box-shadow: 0px 0px 5px black;
+}
+main{
+    max-width: 1000px;
+    margin: auto;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px black;
+}
+main h2{
+    font-family: 'Press Start 2P', cursive;
+    font-size: medium;
+}
+main p{
+    font-family: 'VT323', monospace;
+}
+main li{
+    font-family: 'VT323', monospace;
+}
+
